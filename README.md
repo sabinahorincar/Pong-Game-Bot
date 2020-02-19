@@ -13,3 +13,7 @@ Q-learning:
 4. No. of train episodes - if the number is lower, the algorithm can not learn enough and the game will be over fast. The higher the number, the better is the environment exploration ( ex. 5000 train episodes). 
   
 Python2 example : python2 q_learning_skel.py --plot --final_show_pygame --train_episodes 50
+
+
+![Terminal Screenshot](https://github.com/sabinahorincar/pong-game-bot/blob/master/screenshots/terminal-screenshot.png)
+![Pygame Screenshot](https://github.com/sabinahorincar/pong-game-bot/blob/master/screenshots/pygame-screenshot.png) 
